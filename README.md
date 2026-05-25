@@ -177,6 +177,4 @@ This dashboard helps financial institutions:
 
 ---
 
-<h2 id="resume-description">Resume Description</h2>
 
-Developed an end-to-end Power BI dashboard integrated with SQL database to analyze loan default trends, borrower demographics, and financial risk metrics using DAX, Power Query, and Power BI Service.
