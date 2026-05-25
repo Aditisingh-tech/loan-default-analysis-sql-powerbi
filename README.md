@@ -107,7 +107,7 @@ The dataset contains information related to:
 
 <h2 id="dashboard-1-loan-default--overview">Dashboard 1: Loan Default & Overview</h2>
 
-![Dashboard 1](Screenshots/dashboard1.png)
+![Dashboard 1](Screenshots/Loan_default_overview.png)
 
 ### Key Insights
 
@@ -120,7 +120,7 @@ The dataset contains information related to:
 
 <h2 id="dashboard-2-applicant-demographics--financial-profile">Dashboard 2: Applicant Demographics & Financial Profile</h2>
 
-![Dashboard 2](Screenshots/dashboard2.png)
+![Dashboard 2](Screenshots/Applicant Demographics and financial profile.png)
 
 ### Key Insights
 
@@ -133,7 +133,7 @@ The dataset contains information related to:
 
 <h2 id="dashboard-3-financial-risk-metrics">Dashboard 3: Financial Risk Metrics</h2>
 
-![Dashboard 3](Screenshots/dashboard3.png)
+![Dashboard 3](Screenshots/Financial Risk Metrics.png)
 
 ### Key Insights
 
